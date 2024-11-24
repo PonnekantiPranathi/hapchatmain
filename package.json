@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "agora-rtm-sdk": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "firebase": "^11.0.2",
+    "googleapis": "^144.0.0",
+    "ws": "^8.18.0"
+  }
+}
